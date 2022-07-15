@@ -2,3 +2,8 @@ esta el primera prueba de verdad en este curso de
 Git y Github, vamos a ver como termina esto.
 Cambios para reflejar que esto sirve
 Esta linea es la numero 4 y eso no ha cambiado
+
+
+Aqui se añadio esta linea para tener una excusa para
+practicar el merge.
+
