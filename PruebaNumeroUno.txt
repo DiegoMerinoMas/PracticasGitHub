@@ -7,3 +7,6 @@ Esta linea es la numero 4 y eso no ha cambiado
 Aqui se añadio esta linea para tener una excusa para
 practicar el merge.
 
+
+LINEA DE BASH
+
